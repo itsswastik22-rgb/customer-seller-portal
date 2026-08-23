@@ -122,5 +122,20 @@ This project was developed as part of my **BCA academic journey** and provided h
 BCA Graduate | MCA Student at KIIT University
 
 ---
+## Screenshots
 
+### Main Portal
+![Main Portal](screenshots/main-portal.png)
+
+### Seller Portal
+![Seller Portal](screenshots/seller-portal.png)
+
+### Product Management
+![Product Management](screenshots/product-management.png)
+
+### Customer Portal
+![Customer Portal](screenshots/customer-portal.png)
+
+### Orders
+![Orders](screenshots/orders.png)
 ⭐ If you find this project useful, feel free to explore the repository.

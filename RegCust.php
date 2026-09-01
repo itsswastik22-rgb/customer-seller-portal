@@ -11,12 +11,13 @@
 </head>
 
 <body>
-  <h1>Customer Registration</h1>
+  <center>
+    <h1>Customer Registration</h1>
+  </center>
   <form method="POST" action="RegCust.php">
                   <div class="form-group">
                     <label for="exampleInputName">Full Name</label>
-                    <input name="n1" type="text" class="form-control" id="exampleInputName" aria-describedby="emailHelp" placeholder="Enter Name">
-
+                    <input name="n1" type="text" class="form-control" id="exampleInputName" aria-describedby="emailHelp" placeholder="Enter Full Name">
                   </div>
                   
                   <div class="form-group">
@@ -32,8 +33,11 @@
                     <label for="exampleInputPassword1">Password</label>
                     <input name="p1" type="password" class="form-control" id="exampleInputPassword1" placeholder="Password"><br>
                   <button href="MainPage.php" type="submit" class="btn btn-primary">Register</button>
+               
               </div>
+              
   </form>
+ 
   <!-- Optional JavaScript; choose one of the two! -->
 
   <!-- Option 1: jQuery and Bootstrap Bundle (includes Popper) -->

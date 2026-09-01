@@ -11,11 +11,14 @@
 </head>
 
 <body>
-  <h1>Seller Registration</h1>
+  <center>
+    <h1>Seller Registration</h1>
+  </center>
+
   <form method="POST" action="RegSeller.php">
                   <div class="form-group">
                     <label for="exampleInputName">Full Name</label>
-                    <input name="n1" type="text" class="form-control" id="exampleInputName" aria-describedby="emailHelp" placeholder="Enter Name">
+                    <input name="n1" type="text" class="form-control" id="exampleInputName" aria-describedby="emailHelp" placeholder="Enter Full Name">
 
                   </div>
                   
